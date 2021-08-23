@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipeoxs&&theme=tokyonight" alt="filipeoxs" /></p>
 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/filipeoxs/filipeoxs/blob/output/github-contribution-grid-snake.svg)
