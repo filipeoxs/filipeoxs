@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filipe</h1>
+
 
 ![filipeoxs GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeoxs&count_private=true&show_icons=true&theme=tokyonight)
 
