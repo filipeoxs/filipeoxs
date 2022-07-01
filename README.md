@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipeoxs&layout=compact&theme=tokyonight)](https://github.com/filipeoxs/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filipeoxs" alt="filipeoxs" /></a> </p>
+
 
 
 - 📫 How to reach me **filipeoxs@gmail.com**
