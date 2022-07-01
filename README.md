@@ -23,6 +23,11 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </a> 
+
+<a href="https://getbootstrap.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a> 
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 </a> 
@@ -63,8 +68,8 @@
 
 
 
-<a href="https://www.mongodb.com/pt-br" target="_blank"> 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<a href="https://www.postgresql.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
@@ -78,6 +83,11 @@
 <a href="https://azure.microsoft.com/pt-br/" target="_blank"> 
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </a>
+
+<a href="https://aws.amazon.com/pt/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</a>
+
 
 
 
