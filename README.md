@@ -67,11 +67,11 @@
 </a>
 <!--RabbitMQ-->
 <a href="https://www.rabbitmq.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </a>
 <!--Redis-->
 <a href="https://redis.io/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white/>
 </a>
 <!--Jenkins-->
 <a href="https://www.jenkins.io/" target="_blank"> 
