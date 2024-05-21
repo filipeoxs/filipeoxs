@@ -47,7 +47,7 @@
 </a>
 <!--ShellScript-->
 <a href="https://pt.wikipedia.org/wiki/Shell_script" target="_blank"> 
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
 <!--PostgreSQL-->
 <a href="https://www.postgresql.org/" target="_blank"> 
