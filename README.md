@@ -49,6 +49,10 @@
 <a href="https://pt.wikipedia.org/wiki/Shell_script" target="_blank"> 
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
+<!--WordPress-->
+<a href="https://br.wordpress.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</a>
 <!--PostgreSQL-->
 <a href="https://www.postgresql.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -77,7 +81,18 @@
 <a href="https://www.jenkins.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </a>
-
+<!--CentOS-->
+<a href="https://www.centos.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
+</a>
+<!--Ubuntu-->
+<a href="https://ubuntu.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</a>
+<!--Windows-->
+<a href="https://www.microsoft.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
 
 
 
